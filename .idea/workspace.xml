@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -32,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -59,6 +62,20 @@
       <updated>1561463461902</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ShopTest_loginBackEnd - 2019.06.25 at 15h 03m 19s.xml">
+      <configuration name="ShopTest.loginBackEnd" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShopTest_loginBackEnd - 2019.06.25 at 15h 03m 40s.xml">
+      <configuration name="ShopTest.loginBackEnd" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShopTest_loginBackEnd - 2019.06.25 at 15h 03m 54s.xml">
+      <configuration name="ShopTest.loginBackEnd" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShopTest_loginBackEnd - 2019.06.25 at 15h 04m 32s.xml">
+      <configuration name="ShopTest.loginBackEnd" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
